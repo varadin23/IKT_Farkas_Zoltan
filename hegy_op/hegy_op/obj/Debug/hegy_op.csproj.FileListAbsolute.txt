@@ -1,0 +1,7 @@
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\bin\Debug\hegy_op.exe.config
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\bin\Debug\hegy_op.exe
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\bin\Debug\hegy_op.pdb
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\obj\Debug\hegy_op.csproj.AssemblyReference.cache
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\obj\Debug\hegy_op.csproj.CoreCompileInputs.cache
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\obj\Debug\hegy_op.exe
+C:\Users\Tanulo\varadi_niki\ikt\hegy_op\hegy_op\obj\Debug\hegy_op.pdb
