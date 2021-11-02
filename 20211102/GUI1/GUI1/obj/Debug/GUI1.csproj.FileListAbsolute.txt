@@ -1,0 +1,10 @@
+C:\Git\20211102\GUI1\GUI1\bin\Debug\GUI1.exe.config
+C:\Git\20211102\GUI1\GUI1\bin\Debug\GUI1.exe
+C:\Git\20211102\GUI1\GUI1\bin\Debug\GUI1.pdb
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.csproj.AssemblyReference.cache
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.Form1.resources
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.Properties.Resources.resources
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.csproj.GenerateResource.cache
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.csproj.CoreCompileInputs.cache
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.exe
+C:\Git\20211102\GUI1\GUI1\obj\Debug\GUI1.pdb
